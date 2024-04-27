@@ -1,10 +1,20 @@
-## Hi there 👋
+## Hi there 👋   Welcome to Github Profile!!
 
-<!--
-**Dharund008/Dharund008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+  I'm Dharun D, Student.
+  Currently Pursuing my Btech in Information Technology @ Kongu Engineering College.
+  A Enthusiast and a
 
-Here are some ideas to get you started:
+## What I Do
+  🔭 https://leetcode.com/u/DharunD/
 
+
+## Connect with Me
+  📫 Gmail:- dharund0810@gmail.com
+  📫 LinkedIn:- www.linkedin.com/in/dharund
+  
+                                  Feel free to explore my repositories and reach out if you have any questions or just want to connect!  
+<!-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  />
+
