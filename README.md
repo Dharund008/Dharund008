@@ -6,9 +6,9 @@
 **What I Do**<br>
   🔭 Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/DharunD/).
   
-**Connect with Me**
- <p> 📫 Email: [Gmail Id](dharund0810@gmail.com). <br>
-  🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dharund/).</p>
+**Connect with Me** <br>
+     📫 Email:  [Gmail ID](dharund0810@gmail.com). <br>
+    🔗 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/dharund).      
 
         Feel free to explore my repositories and reach out if you have any questions or just want to connect!
 
